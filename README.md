@@ -3,7 +3,7 @@
 HeaderPwnBurpEXT extension for Burp.
 
 ## 🚀 Features
-- A port of another project on Github HeaderPWN to workin burp as a single workflow.
+- A port of another project on Github [HeaderPWN](https://github.com/devanshbatham/headerpwn) to workin burp as a single workflow.
 
 ## 📋 Requirements
 
